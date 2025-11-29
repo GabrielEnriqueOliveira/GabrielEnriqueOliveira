@@ -22,9 +22,15 @@ Busco oportunidade como estagiário ou desenvolvedor júnior para aplicar meus c
 :bar_chart: Estatísticas do GitHub
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEnriqueOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+## :bar_chart: Estatísticas do GitHub (Modelo Decorativo)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielEnriqueOliveira&layout=compact&langs_count=10&theme=tokyonight" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielEnriqueOliveira&theme=tokyonight" height="180em">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielEnriqueOliveira&theme=tokyonight" height="180em">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielEnriqueOliveira&theme=tokyonight" height="180em">
+</div>
 
 </div>
 :globe_with_meridians: Me encontre
